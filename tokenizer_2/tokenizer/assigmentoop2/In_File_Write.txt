@@ -1,0 +1,6 @@
+Words starts from lower case 207
+Words in File                41
+Words starts from Uper case  5
+Total Words                  35
+Number of lines              3
+Words After Work             [﻿Pollution, contributes, to, the, harmful, environment, that, results, in, adverse, effect, on, living, beings., It, is, one, of, major, concern, areas, for, whole, world., a, global, issue, involving, United, Nations,, governments,, voluntary, institutions, and, media.]
